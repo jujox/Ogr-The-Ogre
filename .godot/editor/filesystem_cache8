@@ -1,0 +1,7 @@
+2a60927148abd1d33b818b535e306557
+::res://::1686609499
+CL_MainLev.png::CompressedTexture2D::721350323678516891::1686601595::1686601596::1::::<><>::
+icon.svg::CompressedTexture2D::6452336802974625473::1686599746::1686599764::1::::<><>::
+Ogre_walk.png::CompressedTexture2D::8423478519052213714::1686604763::1686604763::1::::<><>::
+Player.gd::GDScript::-1::1686609413::0::1::::<>Area2D<>::
+root.tscn::PackedScene::7867703107294255573::1686609413::0::1::::<><>::uid://kjosf2v6pfyp<>res://Player.gd<>uid://dsanpwmnx1nyo
