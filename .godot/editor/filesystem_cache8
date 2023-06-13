@@ -1,7 +1,10 @@
 2a60927148abd1d33b818b535e306557
-::res://::1686609499
-CL_MainLev.png::CompressedTexture2D::721350323678516891::1686601595::1686601596::1::::<><>::
+::res://::1686686742
 icon.svg::CompressedTexture2D::6452336802974625473::1686599746::1686599764::1::::<><>::
-Ogre_walk.png::CompressedTexture2D::8423478519052213714::1686604763::1686604763::1::::<><>::
-Player.gd::GDScript::-1::1686609413::0::1::::<>Area2D<>::
-root.tscn::PackedScene::7867703107294255573::1686609413::0::1::::<><>::uid://kjosf2v6pfyp<>res://Player.gd<>uid://dsanpwmnx1nyo
+Player.gd::GDScript::-1::1686686523::0::1::::<>CharacterBody2D<>::
+::res://assets/::1686686704
+Ogre_walk.png::CompressedTexture2D::8423478519052213714::1686604763::1686686695::1::::<><>::
+tilemap-1.png::CompressedTexture2D::721350323678516891::1686601595::1686686704::1::::<><>::
+::res://Level-1/::1686686703
+root.tscn::PackedScene::6476490448175340577::1686686748::0::1::::<><>::uid://kjosf2v6pfyp<>res://Player.gd<>uid://dsanpwmnx1nyo
+::res://Scripts/::1686686742

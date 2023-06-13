@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://kjosf2v6pfyp"
-path="res://.godot/imported/CL_MainLev.png-833303086e32b66846cfdb9113e55f10.ctex"
+uid="uid://dsanpwmnx1nyo"
+path="res://.godot/imported/Ogre_walk.png-444df1d79565c6a7d5f70b1ea3a18248.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://CL_MainLev.png"
-dest_files=["res://.godot/imported/CL_MainLev.png-833303086e32b66846cfdb9113e55f10.ctex"]
+source_file="res://assets/Ogre_walk.png"
+dest_files=["res://.godot/imported/Ogre_walk.png-444df1d79565c6a7d5f70b1ea3a18248.ctex"]
 
 [params]
 
