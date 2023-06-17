@@ -22,4 +22,8 @@ func animate_sprite():
 func _process(delta):
 	animate_sprite()
 	get_input()
-	move_and_collide(velocity * delta)
+	var collision = move_and_collide(velocity * delta)
+	if collision:
+		var collider = collision.get_collider()
+		if collider.name.begins_with("Enemy"):
+			$AnimatedSprite2D.play("hurted_ogre")
